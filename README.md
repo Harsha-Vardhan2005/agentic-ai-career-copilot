@@ -29,7 +29,7 @@ Career Copilot is an **Agentic AI-powered career development platform** that act
 - 📊 **Planning skill roadmaps** using our unique **Skill ROI framework** (prioritizing skills with highest career payoff)
 - 🎤 **Conducting voice-based mock interviews** with real-time speech analytics
 - 🔍 **Detecting career drift** to identify and correct misaligned learning paths early
-- 🚀 **Actively recommending** jobs, internships, and hackathons tailored to the user's profile
+- 🚀 **Actively recommending** jobs, internships, and hackathons tailored to the user profile
 
 
 ---
