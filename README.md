@@ -141,7 +141,7 @@ The system follows an intelligent workflow:
 - **AI Resume Analysis** - Intelligent scoring with pros/cons based on user profile
 - **AI Career Roadmap Generator** - Personalized learning paths tailored to individual profiles
 
-### 🔜 Upcoming Features:
+### 🔜 Proposed Agentic AI Capabilities (Post-Selection)
 - Agentic AI system with persistent memory
 - Skill ROI calculation engine
 - Voice-based mock interviews with speech analytics
