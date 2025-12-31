@@ -31,7 +31,6 @@ Career Copilot is an **Agentic AI-powered career development platform** that act
 - 🔍 **Detecting career drift** to identify and correct misaligned learning paths early
 - 🚀 **Actively recommending** jobs, internships, and hackathons tailored to your profile
 
-**From Career Confusion → Job Readiness**
 
 ---
 
@@ -44,15 +43,15 @@ Career Copilot is an **Agentic AI-powered career development platform** that act
 
 ### 📄 AI-Powered Resume Analysis
 - **Not just basic PDF parsing** — intelligent scoring system that evaluates your resume
-- Provides detailed **pros and cons** based on YOUR specific skills and interests
-- Contextual feedback aligned with your career profile and target roles
-- Identifies gaps between your resume and your stated goals
+- Provides detailed **pros and cons** based on provided specific skills and interests
+- Contextual feedback aligned with career profile and target roles
+- Identifies gaps between your resume and stated goals
 
 ### 🗺️ Personalized AI Career Roadmap
-- Generates customized learning paths based on **your unique profile**
-- Roadmap adapts to your skills, interests, experience level, and career aspirations
+- Generates customized learning paths based on user's unique profile
+- Roadmap adapts to  skills, interests, experience level, and career aspirations
 - Step-by-step guidance on what to learn, when to learn it, and why it matters
-- Smart skill prioritization based on your individual career trajectory
+- Smart skill prioritization based on individual career trajectory
 
 ### 🤖 Agentic AI Career Assistant 
 - Maintains persistent career memory across sessions
