@@ -22,14 +22,14 @@
 Students and early-career professionals struggle to make clear career decisions due to scattered guidance, unclear skill priorities, and lack of interview readiness. Current platforms don't provide continuous mentorship, personalized skill prioritization, or realistic interview feedback.
 
 **Our Solution:**  
-Career Copilot is an **Agentic AI-powered career development platform** that acts as your personal career mentor. It goes beyond traditional career guidance by:
+Career Copilot is an **Agentic AI-powered career development platform** that acts as personal career mentor. It goes beyond traditional career guidance by:
 
 - 🧠 **Continuously analyzing** your resume, skills, interests, and career goals
 - 🎯 **Reasoning about** job market needs and role feasibility  
 - 📊 **Planning skill roadmaps** using our unique **Skill ROI framework** (prioritizing skills with highest career payoff)
 - 🎤 **Conducting voice-based mock interviews** with real-time speech analytics
 - 🔍 **Detecting career drift** to identify and correct misaligned learning paths early
-- 🚀 **Actively recommending** jobs, internships, and hackathons tailored to your profile
+- 🚀 **Actively recommending** jobs, internships, and hackathons tailored to the user's profile
 
 
 ---
@@ -38,24 +38,24 @@ Career Copilot is an **Agentic AI-powered career development platform** that act
 
 ### 👤 Comprehensive Profile Building
 - Capture detailed user information: skills, interests, experience, and career goals
-- Build a holistic profile that forms the foundation for all AI recommendations
-- One-time setup that powers personalized career guidance throughout the platform
+- Creates a holistic profile that drives all AI reasoning
+- Acts as persistent career memory across sessions
 
 ### 📄 AI-Powered Resume Analysis
-- **Not just basic PDF parsing** — intelligent scoring system that evaluates your resume
+- **Not just basic PDF parsing** — intelligent scoring system that evaluates provided resume
 - Provides detailed **pros and cons** based on provided specific skills and interests
 - Contextual feedback aligned with career profile and target roles
 - Identifies gaps between your resume and stated goals
 
 ### 🗺️ Personalized AI Career Roadmap
-- Generates customized learning paths based on user's unique profile
+- Generates customized learning paths based on user profile
 - Roadmap adapts to  skills, interests, experience level, and career aspirations
 - Step-by-step guidance on what to learn, when to learn it, and why it matters
 - Smart skill prioritization based on individual career trajectory
 
 ### 🤖 Agentic AI Career Assistant 
 - Maintains persistent career memory across sessions
-- Autonomously plans, acts, and adapts based on your progress
+- Autonomously plans, acts, and adapts recommendations
 - Analyzes resume and continuously updates career strategy
 
 ### 📈 Skill ROI-Based Reasoning Engine 
@@ -114,7 +114,7 @@ The system follows an intelligent workflow:
 ## 🎯 Our Unique Value Proposition (USP)
 
 ✅ **Skill ROI-based learning** — Not all skills are equal; we prioritize what matters most  
-✅ **Persistent AI agents** — Your career copilot remembers everything and evolves with you  
+✅ **Persistent AI agents** — Career copilot remembers everything and evolves with you  
 ✅ **Voice-to-Voice interviews** — Practice like it's real, with speech analytics feedback  
 ✅ **Career drift detection** — Catch misaligned learning before it's too late  
 ✅ **One-stop platform** — Resume analysis, skill planning, interview prep, and job matching in one place
