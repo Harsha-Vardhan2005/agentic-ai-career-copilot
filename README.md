@@ -128,13 +128,13 @@ The system follows an intelligent workflow:
 ### ✅ Implemented Features:
 
 <div align="center">
-  <img src="./imgs/skills.png" alt="Profile Building" width="45%" />
-  <img src="./imgs/exp.png" alt="Profile Building" width="45%" />
+  <img src="./imgs/skills.png" alt="Profile Building" style="width:45%; height:300px; object-fit:cover;" />
+  <img src="./imgs/exp.png" alt="Profile Building" style="width:45%; height:300px; object-fit:cover;" />
 </div>
 
 <div align="center">
-  <img src="./imgs/roadmap.png" alt="AI Roadmap" width="45%" />
-  <img src="./imgs/resume.png" alt="Resume Analysis" width="45%" />
+  <img src="./imgs/roadmap.png" alt="AI Roadmap" style="width:45%; height:300px; object-fit:cover;" />
+  <img src="./imgs/resume.png" alt="Resume Analysis" style="width:45%; height:300px; object-fit:cover;" />
 </div>
 
 - **Frontend UI** - React-based user interface with TailwindCSS
